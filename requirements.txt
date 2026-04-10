@@ -1,14 +1,7 @@
 python-telegram-bot==20.7
-telegram==0.0.1
 google-auth==2.28.0
 google-auth-oauthlib==1.2.0
-google-auth-httplib2==0.2.0
 gspread==5.12.0
-easyocr==1.7.1
-pillow==10.2.0
-opencv-python==4.9.0.80
 openai==1.14.0
 python-dotenv==1.0.0
-aiohttp==3.9.3
-asyncio==3.4.3
 requests==2.31.0
